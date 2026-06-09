@@ -1,7 +1,5 @@
 # TFM_JAAT
 
-Código del TFM: solver de condensación en faros LED (OpenFOAM v2512).
-
 ## Estructura
 
 ```
